@@ -26,9 +26,10 @@ Here is an overview of the dataset, how it was obtained and the preprocessing st
 
 Here are some more details about the machine learning approach, and why this was deemed appropriate for the dataset. 
 
+<p>
 When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
   \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
-
+</p>
 
 The model might involve optimizing some quantity. You can include snippets of code if it is helpful to explain things.
 
