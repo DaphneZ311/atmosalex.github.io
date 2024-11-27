@@ -24,6 +24,8 @@ Here is an overview of the dataset, how it was obtained and the preprocessing st
 
 Here are some more details about the machine learning approach, and why this was deemed appropriate for the dataset. 
 
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+
 The model might involve optimizing some quantity. You can include snippets of code if it is helpful to explain things.
 
 ```python
